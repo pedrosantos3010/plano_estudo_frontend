@@ -14,9 +14,12 @@ O Curso contém conteúdos mais teoricos, que o intuito é apenas assistir e ent
 - aonde estiver "Implementar" você deve copiar o código do vídeo. Sugiro que você faça o vídeo assistindo sem copiar, depois pause e tente reproduzir sem ficar olhando diretamente o que está no vídeo. No inicio você pode copiar 100%, mas o ideal é que você vá reduzindo o quanto você olha para o vídeo ao longo do tempo;
 
 
-# Começando com o frontend (HTML, CSS e Javascript) - Módulo 1 (30 dias)
+# Começando com o frontend (30 Tópicos)
+- Tecnologias utilizadas: HTML, CSS, Javascript, git
 
-## Tópico 1 (hello world - primeiros passos) 
+# Módulo 1 - HTML e CSS
+
+### Tópico 1 (hello world - primeiros passos) 
 #### Teoria
 1. Vídeo 1 ao 4 do curso de html e css (46 min) - Por Curso em vídeo \
 https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n \
@@ -36,7 +39,7 @@ https://www.youtube.com/watch?v=LWU2OR19ZG4
 https://www.youtube.com/watch?v=KcPszmtF8cI
 
 
-## Tópico 2 (praticando mais html e css)
+### Tópico 2 (praticando mais html e css)
 #### Teoria
 1. Vídeo 5 do curso de html e css (21 min) - Por Curso em vídeo \
 https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n \
@@ -51,7 +54,7 @@ https://www.youtube.com/watch?v=llF6vD-RljE
 https://www.youtube.com/watch?v=2alg7MQ6_sI
 
 
-## Tópico 3 (flex box)
+### Tópico 3 (flex box)
 #### Teoria
 1. Vídeo 6 do curso de html e css (27 min) - Por Curso em vídeo \
 https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n  \
@@ -71,7 +74,7 @@ https://www.youtube.com/watch?v=UBAX-13g8OM
 Criar seu repositório do git para ir colocando seus projetos dentro. A partir de hoje, é ideal que você use essa ferramenta para subir seu código de todos os outros dias seguintes!
 
 
-## Tópico 4 (Grid layout)
+### Tópico 4 (Grid layout)
 #### Teoria
 1. Vídeo 7 do curso de html e css (22 min) - Por Curso em vídeo \
 https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n  \
@@ -81,52 +84,139 @@ https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHf
 https://www.youtube.com/watch?v=HN1UjzRSdBk
 
 #### Pratica
-
 1. Implementar grid layout (15 min) - Por Násser Yousef Ali \
 https://www.youtube.com/watch?v=k8l7vu-m85Q
 
 1. Implementar Grid layout e flex box (39 min) - Por Origamid \
 https://www.youtube.com/watch?v=x-4z_u8LcGc
 
-## Tópico 5 (O que é Responsividade?)
+### Tópico 5 (O que é Responsividade?)
 #### Teoria
-
 1. Vídeo 8 do curso de html e css (19 min) - Por Curso em vídeo \
 https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n  \
 (pode ser substituido por qualquer outra playlist sobre HTML e CSS de sua preferencia)
 
-1. Como utilizar Media Queries para sites Responsivos (6min) - Por Origamid
+1. Como utilizar Media Queries para sites Responsivos (6min) - Por Origamid \
 https://www.youtube.com/watch?v=AltqAPZzAqo
 
-1. Desktop first ou Mobile first (27 min) - Por Rocketseat
+1. Desktop first ou Mobile first (27 min) - Por Rocketseat\
 https://www.youtube.com/watch?v=g_gXar45uR8&t=479s
 
 #### Partica
-1. Landing Page Responsiva (49 min) - Por Alexandre Saints 
+1. Landing Page Responsiva (49 min) - Por Alexandre Saints \
 https://www.youtube.com/watch?v=edDCEK5QWE8
 
-## Tópico 7 (Implementação suprema - Landing page responsiva)
+### Tópico 7 (Landing page responsiva - Parte 1)
+#### Teoria
+1. Vídeo 9 do curso de html e css (26 min) - Por Curso em vídeo \
+https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n  \
+(pode ser substituido por qualquer outra playlist sobre HTML e CSS de sua preferencia)
+
 #### Pratica
-1. Implementar landing page responsiva do doutor estranho (2h) - Por Fernando Lenid
+1. Implementar da landing page responsiva do doutor estranho (1h) - Por Fernando Lenid \
+_Assistir apenas metade do vídeo para iniciar o projeto da landing page responsiva_
+_Atenção: Este vídeo pode conter javascript (js), mas não se preocupe em entender isso agora!_ \
 https://www.youtube.com/watch?v=24G8dGNUsXM
 
-<!-- 
-Rascunho do que virá: 
-(javascripto fdp) 
-2. Começa a entender javascript (video tá em portugues de portugal, wtf, mas é bom e rápido do jeito q gosto kkkkkk): 
-https://www.youtube.com/watch?v=3tsAu2Ux9Ek
+### Tópico 8 (Landing page responsiva - Parte 2) 
+#### Teoria
+1. Vídeo 10 do curso de html e css (19 min) - Por Curso em vídeo \
+https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n  \
+(pode ser substituido por qualquer outra playlist sobre HTML e CSS de sua preferencia)
 
-3. Começar a entender mais git (video 2):
-https://youtu.be/hcZ0qtwvN1w?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
+#### Pratica
+1. Implementar da landing page responsiva do doutor estranho (1h) - Por Fernando Lenid \
+_Assistir finalizar o projeto da landing page responsiva_ \
+_Atenção: Este vídeo pode conter javascript (js), mas não se preocupe em entender isso agora!_ \
+https://www.youtube.com/watch?v=24G8dGNUsXM
+
+
+## Módulo 2 - HTML, CSS e Javascript
+
+### Tópico 9 (Bem vindo ao javascript)
+#### Teoria 
+1. Vídeo 11 e 12 do curso de html e css (30 min) - Por Curso em vídeo \
+https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n  \
+(pode ser substituido por qualquer outra playlist sobre HTML e CSS de sua preferencia)
+
+1. Aprenda javascript em 10 minutos (11 min) - Por Danki Code \
+https://www.youtube.com/watch?v=RvcRxEeJqi8
+
+1. Condições Parte 1 (27 min) - Por Curso em vídeo \
+https://youtu.be/cOdG4eACN2A
+
+1. Condições parte 2 (29 min) - Por Curso em vídeo \
+1. https://www.youtube.com/watch?v=EEStcIe8rAM
+
+#### Pratica
+1. Implementar ultimo projeto de html e css puro (25 min) - Danki code \ 
+https://www.youtube.com/watch?v=ctx2h60FUIY
+
+### Tópico 10 (Criando um cronometro) 
+#### Teoria 
+1. Vídeo 13, 14 e 15 do curso de html e css (27 min) - Por Curso em vídeo \
+https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n  \
+(pode ser substituido por qualquer outra playlist sobre HTML e CSS de sua preferencia)
+
+1. O que é o dom? (8 min) - Por Código fonte TV \
+https://www.youtube.com/watch?v=HOv9CqqAZk0
+
+1. Estrutura de repetição While 1 (4 min) - Por Débora Silva Cursos \
+https://www.youtube.com/watch?v=HRBtXDipaNM
+
+1. Estrutura de repetição while 2 (6 min) - Por Débora Silva Cursos \
+https://www.youtube.com/watch?v=mmi68EApceI
+
+1. O Loop For (4 min) - Por Débora Silva Cursos \
+https://youtu.be/c-kpPPI7fXo
+
+1. Funções (5 min) - Por Débora Silva Cursos \ 
+https://www.youtube.com/watch?v=1Rwr-wwSCQU
+
+1. Arrays (7 min) - Por Débora Silva Cursos \
+https://www.youtube.com/watch?v=iohMyUk5IWQ
+
+#### Pratica
+1. Implementar cronometro com javascript (18 min) - Por Danki Code \
+https://www.youtube.com/watch?v=RYb6a87dM6A
+
+#### Desafio
+Deixar o cronometro mais bonito e estilizada com css, seja livre e criativo!
+
+### Tópico 11
+1. Vídeo 16 e 17 do curso de html e css (30 min) - Por Curso em vídeo \
+https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n  \
+(pode ser substituido por qualquer outra playlist sobre HTML e CSS de sua preferencia)
+
+1. 8 Formas de usar looping em arrays no js (19 min) - Por Código fonte TV \
+https://www.youtube.com/watch?v=NfHVPEzo5Ik
+
+1. Programação Orientada a Objetos (POO) (10 min) - Por Node Studio Treinamentos \
+https://www.youtube.com/watch?v=kqE3sp_7peQ
+
+1. No javascript tudo é objeto! (10 min) - Por Origamid \
+https://www.youtube.com/watch?v=n5uiJr-v0KQ
+
+#### Pratica
+1. Implementar mini loja (22 min) - Danki Code 
+https://www.youtube.com/watch?v=wG65FdU-Yos
+
+#### Desafio
+Deixar a loja mais bonita e estilizada com css, seja livre e criativo!
+
+<!-- 
+Rascunho:
+### Tópico 13
+#### Teoria e pratica
+1. Manipulação de DOM - Implementar piano na web (1h e 37 min)
+https://www.youtube.com/watch?v=UftSB4DaRU4
+
 
 4. criar um site com javascripto fdp
 https://www.youtube.com/watch?v=wG65FdU-Yos
 
 
 ## Dia 4 (
-1. assiste 2h do teu curso (já que pagou sa porra tenta ver td fodase); 
-
-2. 
-
-3. Começar a entender mais git (video 3):
-https://youtu.be/CJtrNuTTs4Q?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA -->
+2. Responsividade na prática
+https://www.youtube.com/watch?v=H91DhKPjhPk
+-->
